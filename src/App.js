@@ -5,7 +5,6 @@ import { NewTodoContainer } from './NewTodoContainer';
 function App() {
   return (
     <div className="App">
-      <NewTodoContainer />
       <TodoContainer />
     </div>
   );
